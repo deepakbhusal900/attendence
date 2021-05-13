@@ -1,0 +1,4 @@
+#Wed Apr 28 11:41:41 NPT 2021
+base.0=C\:\\Users\\Deepak_Messi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
